@@ -13,9 +13,6 @@ The objective of the project was to use our knowledge of microcontrollers (specf
 The Kalman-Copter utilizes 2 sensors as inputs and a custom kalman filter to drive the 3 outputs. A complete part list can be found further in the README.
 
 ## **Kalman-Copter In Action**
-<p align ="center">
+<iframe width="1038" height="584" src="https://www.youtube.com/embed/18VH6XBTFbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Watch the video](https://img.youtube.com/vi/18VH6XBTFbk/default.jpg)](https://youtu.be/18VH6XBTFbk)
-
-</p>
 <div align = "center">Figure 2. Kalman-Copter reacts to the user input in real time. The pitch and roll angles are the red and green lines (respectively) and the altitude is measured with the blue line. Each input has a separate kalman filter to reduce noise across the system. </div> <br>
